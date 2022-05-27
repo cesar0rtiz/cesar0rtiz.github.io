@@ -1,6 +1,5 @@
 function show_alert(){
     Swal.fire({
-        title: 'Bienvenida',
         text: 'LO HICEEEEEEEEEE cynthiaaaaaaaaa',
         width: 300,// es el fondo de la caja de dialogo
         border: 30,
